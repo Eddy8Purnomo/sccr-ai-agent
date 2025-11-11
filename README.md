@@ -1,5 +1,9 @@
 # 🧠 SCCR AI Agent – Enterprise RAG Assistant
-
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-green)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-black)](https://fastapi.tiangolo.com)
+[![llama.cpp](https://img.shields.io/badge/llama.cpp-vulkan-blue)](https://github.com/ggerganov/llama.cpp)
+[![PWA](https://img.shields.io/badge/PWA-Enabled-green)](https://web.dev/progressive-web-apps/)
 ![SCCR AI Agent UI](docs/screenshot-ui.png)
 
 > **Internal AI Assistant for SCCR Indonesia**  
