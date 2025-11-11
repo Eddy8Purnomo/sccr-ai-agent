@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+.env
+
+# Logs
+*.log
+ai-agent.log
+logs/
+
+# Vector Store (opsional: Anda bisa unggah versi publik)
+# TAPI jangan unggah jika mengandung data sensitif
+# backend-rag/vector_store/
+
+# Model files (JANGAN pernah unggah!)
+*.gguf
+*.bin
+models/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Frontend (jika pakai build)
+frontend/build/
+frontend/dist/
+
+# Docker
+/backend/.dockerignore
