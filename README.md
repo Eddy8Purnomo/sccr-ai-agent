@@ -4,7 +4,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-black)](https://fastapi.tiangolo.com)
 [![llama.cpp](https://img.shields.io/badge/llama.cpp-vulkan-blue)](https://github.com/ggerganov/llama.cpp)
 [![PWA](https://img.shields.io/badge/PWA-Enabled-green)](https://web.dev/progressive-web-apps/)
-![SCCR AI Agent UI](docs/screenshot-ui.png)
+![SCCR AI Agent UI](docs/Screen Shot 2025-11-11 at 10.10.59.png)
 
 > **Internal AI Assistant for SCCR Indonesia**  
 > A secure, factual, and production-ready Retrieval-Augmented Generation (RAG) system built with **Llama-3**, **FastAPI**, and **PWA** — designed for corporate use with full transparency and data governance.
